@@ -15,7 +15,7 @@ I have compiled a list of all websites currently hosted under and associated wit
 <ul>
   <li>http://pay.moyai.store</li>
   <li>http://s3.moyai.store</li>
-  <li>http://workspaces.moyai.store</li>
+  <li>http://bin.moyai.store</li>
   <li>http://dev.moyai.store</li> 
 </ul>
 
