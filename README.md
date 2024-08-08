@@ -14,8 +14,8 @@ This architecture demonstrates a well-designed, security-focused deployment stra
 I have compiled a list of all websites currently hosted under and associated with the moyai.store domain. This list is provided below.
 <ul>
   <li>http://pay.moyai.store</li>
-  <li>http://s3.moyai.store</li>
-  <li>http://bin.moyai.store</li>
+  <li>http://cloud.moyai.store</li>
+  <li>http://teetime.moyai.store</li>
   <li>http://dev.moyai.store</li> 
 </ul>
 
